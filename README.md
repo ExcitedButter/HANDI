@@ -188,13 +188,10 @@ All configuration details are placed in `example/train_mask_motion.yaml`. Each p
 ## Bibtex
 Please cite this paper if you find the code is useful for your research:
 ```
-@misc{li2024instructionalvideogeneration,
-      title={Instructional Video Generation}, 
-      author={Yayuan Li and Zhi Cao and Jason J. Corso},
-      year={2024},
-      eprint={2412.04189},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.04189}, 
+@article{li2024handi,
+  title={HANDI: Hand-Centric Text-and-Image Conditioned Video Generation},
+  author={Li, Yayuan and Cao, Zhi and Corso, Jason J},
+  journal={arXiv preprint arXiv:2412.04189},
+  year={2024}
 }
 ```
